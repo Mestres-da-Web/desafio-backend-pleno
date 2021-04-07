@@ -1,7 +1,6 @@
-# Desafio Back-end JR 
+# Desafio Back-end Pleno
+
 ### Antes de mais nada, gostaríamos de agradecer pelo interesse em integrar nossa equipe! Abaixo estão as instruções para que você dê início ao teste.
-
-
 
 ### Sobre a empresa
 Desde 2009 vivemos como loucos atrás de mentes apaixonadas por tecnologia, aqueles que nunca ficam contentes com o que sabem, eles sempre querem mais. Somos Beta porque nunca chegamos onde queremos e nunca sabemos o bastante, o conhecimento é nosso alimento, comemos todos os dias.
