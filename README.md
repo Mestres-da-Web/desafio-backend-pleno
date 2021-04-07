@@ -27,6 +27,7 @@ assim que sair do cartaz, passando pela minha autorização. Você pode me ajuda
 - GIT ✔
 - SOLID ✔
 - TDD ✔
+- Upload de imagem (Amazon ou DO) ✔
 
 ### Requisitos comportamentais
 - Aprendizado continuo
